@@ -1,0 +1,14 @@
+  div{
+    background-color: antiquewhite;
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    margin: 30px;
+    /* text-align: center; */
+    text-decoration: none;
+    gap: 20px;
+    
+    
+  }
+  h3{
+    background-image: url("1725028167049.jpg");
+  }
